@@ -1,0 +1,8 @@
+问题列表:
+
+1.残差网络的学习
+2.            hidden_units:
+                RNN模型的中间层大小，encoder和decoder层相同
+                如果encoder层是bidirectional的话，decoder层是双倍大小
+                
+3.batch normalization
