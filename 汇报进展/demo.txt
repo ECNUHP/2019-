@@ -1,0 +1,1396 @@
+message: 炖小母鸡，配料还缺什么吗？可惜姜不够老。
+topic words: ['母鸡', '姜']
+reply: 看的我都馋了，可以闻到香味儿呢。
+
+message: 赶路，司机给我补课，给我听吴莫愁的歌。
+topic words: ['司机', '吴莫', '歌']
+reply: 吴莫愁，我欣赏她，敢于发泄灵魂。
+
+message: 火车站和长途汽车站才是当今中国，飞机场不算。
+topic words: ['火车站', '中国']
+reply: 同意，总是喜欢外表奢华内脏糜烂
+
+message: 世界银行行长已面临非常严峻的失业危机
+topic words: ['世界', '危机']
+reply: 真实真的还是煮的？
+
+message: 小时候吃过这朵花的请举手！
+topic words: ['小时候']
+reply: 这吃法原来已传遍大江南北了。
+
+message: 某人已经彻底废了，她的新歌以后不听了
+topic words: []
+reply: 去年今年差别太大，莫非去年真是假唱？
+
+message: 马刺啊马刺，煮熟了的鸭子抖抖热水居然又飞走了。咋这样呢？！
+topic words: ['马刺', '马刺', '鸭子', '热水', '飞']
+reply: 是啊，哎，这个搞得人心情不爽啊
+
+message: 有时候你必须跳出窗外，然后在坠落的过程中长出翅膀。
+topic words: ['过程', '翅膀']
+reply: 是这样的。需要一定勇气跳出窗户
+
+message: 昨晚动车上没睡好。明早早班飞上海。今晚要早睡了。
+topic words: ['飞', '上海']
+reply: 任总，保重身体！说实话的人在中国太少了！
+
+message: 这个抱枕实在太逗了。
+topic words: []
+reply: 它坐在这里，晚上会出人命的。
+
+message: 微小弱势草根群体挣扎着搏一搏就叫微搏。
+topic words: ['群体']
+reply: 同时，还有很多有良知的群体加入，形成了一股正义的微博力量！
+
+message: 朋友们早上好，今天的空气质量。
+topic words: ['朋友']
+reply: 泥马，睡不着，背书去
+
+message: 星巴克月饼！想吃的举手！
+topic words: ['星巴克', '月饼']
+reply: 每家都有？一看就是我喜欢的口感
+
+message: 童年的快乐，是如此的简单！
+topic words: [童年]
+reply: 全是回忆不得不转！
+
+message: 你只适合思念，不适合见面。
+topic words: ['思念']
+reply: 和最爱的人相濡以沫，和次爱的人相忘于江湖
+
+message: 周二在西湖边拍摄的花儿一朵，大家早安。！
+topic words: ['西湖', '花儿', '大家', '早安']
+reply: 哇塞这是真的吗好漂亮感觉像假的花
+
+message: 我敢保证这是全世界最假的广告！没有之一啊
+topic words: ['全世界', '广告']
+reply: 太假了给红包和没给红包时的表情调转了
+
+message: 今天婚礼我们一定会幸福的
+topic words: ['婚礼']
+reply: 好美的新娘，你们一定会幸福的！
+
+message: 春运上车前。到站下车后。
+topic words: []
+reply: 乐出音了，旁边人直看我
+
+message: 还有没睡的吗？忙什么呢？
+topic words: []
+reply: 刚刚上线，品牌定位比较高，在头痛怎么推广，货存压力也大
+
+message: 和老妈一起吃午饭。一会儿去上海农场。
+topic words: ['上海', '农场']
+reply: 老太太精神真好，祝身体健康。
+
+message: 铁丝的影子艺术！你喜欢吗？
+topic words: ['影子', '艺术']
+reply: 总会有一个人。始终追随着你的影子
+
+message: 看一次笑一次。被自己钓的鱼吓坏了的小朋友。
+topic words: ['鱼', '小朋友']
+reply: 哈哈这个真心好笑。学习累了就上来看看吖吖。
+
+message: 穿行花千树，车若舞龙，人欲疯。
+topic words: ['花千树', '龙']
+reply: 这个风不是一般的大啊
+
+message: 卖烤肉串的，老有才了！
+topic words: ['老有才']
+reply: 少了个新浪微博呀！
+
+message: 赖昌星无期，吴英死缓，薄谷开来死缓，夏俊峰死刑复核中。
+topic words: ['赖昌星', '吴英', '夏俊峰']
+reply: 有名了，官当大了，想死都难，表同情
+
+message: 大喜大悲看清自己，大起大落看清朋友。
+topic words: ['朋友']
+reply: 下面在做，上面在看
+
+message: 所谓人生，便是取决于遇见谁。
+topic words: ['人生']
+reply: 缘分终究会到只不过早晚的事
+
+message: 天赐真的饿了。第五天就要过去了，加油啊！
+topic words: ['天赐']
+reply: 好心疼啊。宝贝儿，多吃点，好好休息。
+
+message: 我发觉最喜欢土大款式奢华的不是土大款，是领导
+topic words: ['土大', '款式', '领导']
+reply: 其实两者差不多，都没什么品位
+
+message: 求人肉！天津和上海的人们能忍么！
+topic words: ['肉', '天津', '上海']
+reply: 北京下雨怎么没淹死她呢？
+
+message: 就冲着郭敬明抄袭也死不悔改那劲儿我还就人身攻击了
+topic words: ['郭敬明']
+reply: 他心眼和身高可成正比了呢
+
+message: 母亲节，告诉妈妈，我爱你
+topic words: ['母亲节', '妈妈']
+reply: 好有爱！。愿全天下的母亲永远快乐！
+
+message: 这哥们几乎没有不会的项目，人类已经无法阻止普京了。
+topic words: ['项目', '人类', '普京']
+reply: 论个人魅力，普京是现任各国首相中魅力值最高的
+
+message: 真话和假话，究竟哪个更吃香？
+topic words: ['香']
+reply: 生于忧患，死于安乐。
+
+message: 这年头，不发个新版本都不好意思跟大家说圣诞快乐！
+topic words: ['版本', '大家', '圣诞快乐']
+reply: 更新了什么内容啊，透露透露
+
+message: 志军为朋友两肋插刀，护主有功，被赏缓刑。
+topic words: ['朋友']
+reply: 两年之后，大家淡忘之后又是好汉。
+
+message: 无论你多么讨厌你的学校，当你离开久了，你还是会想念它。
+topic words: ['学校']
+reply: 想念那时年轻的我们
+
+message: 当代文学史上最珍贵难得的一幕
+topic words: ['史']
+reply: 莫言的帽子真好看。
+
+message: 喝醉了才知道你最爱谁，生病了才知道谁最爱你。
+topic words: []
+reply: 每次喝酒后最想的一个人都是她！
+
+message: 用烤面包铺出来的烤面包机。
+topic words: []
+reply: 这么浪费。就不怕引来几百只蟑螂和老鼠啊。
+
+message: 赖床是对周末最起码的尊重。
+topic words: []
+reply: 原谅上课的我不能再尊重你了周末！
+
+message: 所以说，印度成为世界第一强国是迟早的事
+topic words: ['印度', '世界', '事']
+reply: 不是已经是世界第一强国了吗！？第一强奸大国
+
+message: 有人活着为了活着，有人活着那叫生活。
+topic words: []
+reply: 有人活着只是因为未来还伴有希望
+
+message: 一路走下去，没有行李没有牵绊没有束缚，就那么简单
+topic words: []
+reply: 一万多粉丝都没嫁出去啊。
+
+message: 见过这么大的寿司吗？真是太给力了，想吃么？
+topic words: ['寿司', '真是太']
+reply: 这个太假了吧，米不可能有这么大的！
+
+message: 听他们说这图上没有女人，我看完自觉面壁了。
+topic words: ['图', '女人']
+reply: 仔细看了还是个女人啊
+
+message: 这个年头不抽烟的人真难找，不抽的请转发！
+topic words: ['人']
+reply: 讨厌烟味！绝不抽
+
+message: 她们都说我现在变的很成熟，而我只是比以前变的自私了而已。
+topic words: []
+reply: 谁比谁自私，谁比谁成熟
+
+message: 好朋友设计的首饰，穿最简单的衣服最好配！好喜欢！
+topic words: ['朋友', '首饰', '衣服']
+reply: 喜欢静姐身上黑色毛衣，可以告诉我撒牌子？求回复！
+
+message: 沉默，可以让混乱的心，变得清澈。
+topic words: ['心']
+reply: 沉默，可以让混乱的心，变得清澈
+
+message: 男团半决赛两个功臣
+topic words: []
+reply: 娃姐给做啥好吃的啦，给乐乐乐成这样
+
+message: 长颈鹿长颈鹿。乃滴脖纸为什么介么长。
+topic words: ['长颈鹿', '长颈鹿']
+reply: 小胖我真是一天比一天更爱你
+
+message: 老实说，还是咱八十年代的星靠谱有范。看费翔，那风度
+topic words: ['范', '费翔', '风度']
+reply: 费翔是我记住的第一个明星。
+
+message: 一但生气，一但情绪，人就变笨了。
+topic words: ['情绪', '人']
+reply: 我现在就是最聪明滴时候了。
+
+message: 遇到这种傻逼我只能这么回他！
+topic words: []
+reply: 小互，滚字后面一般都应该加个回字。
+
+message: 暴强的公路减速带，比交警还管用。
+topic words: ['公路']
+reply: 咱抚顺不用。满大街都是刨的坑。全年可畅游哦。
+
+message: 莫言去年称赞重庆的诗作。
+topic words: ['莫言', '重庆']
+reply: 老莫是嫌重庆死的慢，加点油。
+
+message: 吃饱喝足！坐在大马路上！哈哈！给力！
+topic words: ['大马', '力']
+reply: 兵哥啊，冷不冷啊？我咋看着就冷呢？
+
+message: 各位吃货，你们眼里的中国是不是这个样子滴？
+topic words: ['吃货', '中国']
+reply: 哎。估计博主是北方人，完全不了解南方的美食
+
+message: 太饿了。工作中的午餐
+topic words: []
+reply: 美女，小心不要饿坏身体
+
+message: 我相信爱情，只是不相信人。
+topic words: ['爱情', '人']
+reply: 啧啧啧，人兽恋。冤孽啊
+
+message: 宝贝你真有才。西瓜要这样吃才爽嘛。！
+topic words: ['宝贝', '西瓜']
+reply: 嘿嘿，又快到吃西瓜的季节了。
+
+message: 没了你我因回忆而活因想象而死
+topic words: ['想象']
+reply: 没了你我因回忆而活因想象而死
+
+message: 当一个老外迷上麻将以后。
+topic words: ['麻将']
+reply: 当一个老外迷上麻将以后。
+
+message: 泸沽湖畔，想在这安静的住几天。
+topic words: ['泸沽湖', '安静']
+reply: 里格半岛呀。真是好地方。！
+
+message: 还记得他们吗？四十多年，一个都没有少。
+topic words: []
+reply: 以前上观赏课没少看呀
+
+message: 有些话，我们开始承认了。
+topic words: ['话']
+reply: 事实胜于雄辩，我承认
+
+message: 北京的夜。冰冷的长安街。炽热的红。亲吻！从没改变！
+topic words: ['北京', '长安街']
+reply: 跟谁玩呢？我也在外面呢。
+
+message: 关于读书的两张图。
+topic words: ['读书', '图']
+reply: 这取决你看到的是什么书自己过得是什么样的没有书的生活
+
+message: 据说，一个中国人死了，倒在地上，拍扁了就是一张元素周期表。
+topic words: ['中国', '人', '元素']
+reply: 我们身体里重金属太多了！
+
+message: 高考是这个时代赐予穷孩子的一粒精神伟哥
+topic words: ['时代', '精神']
+reply: 可惜我吃的是过效药
+
+message: 大过节的去北京！中央台可真会挑日子啊！
+topic words: ['北京', '中央台', '日子']
+reply: 没事。月亮还是一样的！
+
+message: 做一个简单的人，平和而执着，谦虚而无畏
+topic words: ['人']
+reply: 平和而执着，谦虚而无畏
+
+message: 这球德赫亚一点责任都没有了。
+topic words: ['球', '德赫亚', '责任']
+reply: 唉？托雷斯转型贝克汉姆了？
+
+message: 总有人比你努力，可怕的是比你牛的人比你还努力！
+topic words: ['牛', '人']
+reply: 总有人比你努力不可怕，可怕的是比你牛的人比你还努力！
+
+message: 富佬迫我一天喝一瓶水。混身不二
+topic words: ['富', '水']
+reply: 这个杯子和我的一样
+
+message: 半个自由身了，想着想着就要笑出声来
+topic words: []
+reply: 老王和他那四个同事给你面试了吗
+
+message: 一根火腿，一颗鸡蛋能做什么，吃货告诉你可以逆天。
+topic words: ['火腿', '鸡蛋', '吃货']
+reply: 好看，就是有点油，吃了会胖吧
+
+message: 用心甘情愿的态度，过随遇而安的生活。
+topic words: ['态度']
+reply: 喜欢这句话，也喜欢这张图。但是现实中有几人能做到哦。
+
+message: 舜耕路上已经水流成河了！
+topic words: []
+reply: 我这太阳高照一点也没下
+
+message: 有意思，林肯和肯尼迪到底有啥关系？网上看来的。
+topic words: ['林肯', '肯尼迪', '关系']
+reply: 这绝对不是巧合。！
+
+message: 你只适合思念，不适合见面。
+topic words: ['思念']
+reply: 你只适合思念不适合见面
+
+message: 人生啊只要能够在善良里去快乐，还有什么不值得感恩的呢。
+topic words: ['人生']
+reply: 好可爱又让人怜爱的狗狗
+
+message: 可以输给对手，但不能输给失败！
+topic words: []
+reply: 成功者总是不约而同的满足时代的需要
+
+message: 看到心酸，中国的传统文化，传承很困难！
+topic words: ['中国', '传统', '文化']
+reply: 唉。天朝现在失去的又岂止是传统文化呢？
+
+message: 小时候喜欢这样玩的童鞋请转发。
+topic words: ['小时候', '童鞋']
+reply: 啊哈哈，真的好怀念哦！
+
+message: 人类再也无法阻止老外包饺子了！
+topic words: ['人类', '饺子']
+reply: 果然是追求速度的，连饺子也快成这样。哈哈
+
+message: 下大雪时，小猫是这样走路的
+topic words: ['大雪', '时', '小猫']
+reply: 雪大了猫就变成了兔子
+
+message: 很多时候，看的太透反而不快乐，还不如幼稚的没心没肺。
+topic words: []
+reply: 必须的，我就这样，谁怕谁啊
+
+message: 那些艺术大师和他们气派的画室。
+topic words: ['艺术', '大师']
+reply: 阳光温热，岁月静好，你还不来，我怎敢老去。
+
+message: 祝大家情人节都陪猪过！
+topic words: ['大家', '情人节', '猪']
+reply: 对朱八的儿子比较有兴趣。
+
+message: 真的问问大家，你们想看到什么样的体育新闻？
+topic words: ['大家']
+reply: 网球新闻！不要一直说费天王喜欢小德的也不少呢
+
+message: 考生加油，你学的东西过了这两天就没用了，不要有所保留！
+topic words: ['学', '东西']
+reply: 寒窗十几年就是为一个分数吗？阁下中毒已深！
+
+message: 需要的童鞋请转走！
+topic words: ['童鞋']
+reply: 我猛一看一位后悔药呢，好吧也来一罐！
+
+message: 男人们真心不容易啊。姐妹们体谅一下！
+topic words: ['男人', '姐妹']
+reply: 男人们真心不容易啊。姐妹们体谅一下！
+
+message: 灯杆上的足球，高手一直在民间。
+topic words: ['足球', '高手', '民间']
+reply: 配乐是什么呀，很有节奏
+
+message: 我的愿望是，一觉睡到小时候。
+topic words: ['小时候']
+reply: 我的愿望是，一觉睡到小时候
+
+message: 万能的神啊，保佑转发这条微博的人都梦想成真吧！
+topic words: ['万能', '神', '人']
+reply: 万能的神啊！保佑我们吧！
+
+message: 白塔山背后，好像正在拆迁。
+topic words: ['白塔山']
+reply: 为迎接你的到来而拆迁。
+
+message: 以我的性格来说，其实一定宁可两边是不对称的！
+topic words: ['性格', '宁可']
+reply: 就是就是，我也会爱不对称的，特别是这样的花型
+
+message: 一个从互联网行业跳槽到公务员的朋友写的，写的非常受用。
+topic words: ['互联网', '行业', '公务员', '朋友']
+reply: 第一次见到缩略图看着这么整齐的文章
+
+message: 训练有素。那个，那个第三位童鞋，麻烦把你的狗腿拿开！
+topic words: ['童鞋']
+reply: 狗腿！真的是狗腿！
+
+message: 如果你在背后议论我，那只能说明，我活的明显要比你精彩许多。
+topic words: ['精彩']
+reply: 有道理，那些大喇叭应该反省下了
+
+message: 见朋友家用过季的菜苔作插花，小黄花雅致，挺美。
+topic words: ['菜', '美']
+reply: 还可以用透明的玻璃小瓶子养大蒜。
+
+message: 这几天收到你们发的图片，希望我没有忘掉谁的！
+topic words: ['图片']
+reply: 擦，，我的图片呢！
+
+message: 年轻时的林青霞，无需施粉黛，美人自清丽。喜欢的转走吧。
+topic words: ['时', '林青霞', '施粉黛', '美人']
+reply: 东方的美是依旧的美啊！
+
+message: 特别烦这货的请转发！现在有点怀念它的也转发！
+topic words: []
+reply: 初中老是做。高中也要做
+
+message: 啃西兰花的小仓鼠，好萌哦。
+topic words: ['西兰花', '仓鼠']
+reply: 哪能好噶可爱的拉！。西兰花小鼠
+
+message: 权振东的声音散发着一股韩剧主题曲的味道，不过我喜欢。
+topic words: ['权振东', '声音', '韩剧', '主题曲', '味道']
+reply: 确实。亲爱的小孩唱的蛮好啊。可惜了。
+
+message: 万年屌丝要从娃娃抓起！
+topic words: ['娃娃']
+reply: 哈哈我也截过这一段。
+
+message: 据刚刚得到的消息，城区供水水压有所波动，正在逐步恢复。
+topic words: ['消息', '城区', '供水']
+reply: 理由太官方了，没有真诚！
+
+message: 矮油，好恩爱的一对！真让人羡慕！
+topic words: ['恩爱']
+reply: 搂搂抱抱亲亲我我。
+
+message: 天然呆也有春天！老张看呆瓜，越看越喜欢！
+topic words: []
+reply: 俩娃对上眼了嘛你出门去他俩不知道在家干嘛呢哈哈哈哈哈
+
+message: 专业人是怎么称呼颜色的？原来如此文艺，语言的意境。
+topic words: ['专业', '人', '颜色', '文艺', '语言']
+reply: 我现在才知道啊我的颜料都白买了
+
+message: 给强迫症患者用的菜板
+topic words: []
+reply: 强迫症，几何控，要做饭了
+
+message: 鳗鱼蛋卷炒饭，这叫我怎么吃呀。
+topic words: ['鳗鱼']
+reply: 看上去好没食欲啊。
+
+message: 李宁的销售速度，太猛了。
+topic words: ['李宁', '速度', '太猛']
+reply: 貌似上午就已经大量售罄了。
+
+message: 世界亏欠我们的，我们互相补足。
+topic words: ['世界']
+reply: 五姑娘和好基友的鸡汤版本
+
+message: 睡不着，几个月来我远虑天下事，近忧女神心，失眠不知多少次。
+topic words: ['女神', '心']
+reply: 老师真乃我辈屌丝楷模
+
+message: 回到家把身上的零七八碎都掏出来了
+topic words: []
+reply: 这床单儿，瞅着也是个老物件儿。
+
+message: 这个必须推广，绝对够凉爽！如果换成麻将会沉吗？
+topic words: ['麻将']
+reply: 想试试的童鞋，伸个爪。
+
+message: 这小子累急眼了，要拎棒子打人去
+topic words: []
+reply: 看来他旁边的要遭殃了，谁啊？
+
+message: 像草莓般可爱。仙人掌般坚强。
+topic words: ['草莓', '仙人掌']
+reply: 爬爬是草莓也是仙人掌
+
+message: 相机广告，挺考眼力的，看大图找找看，谁是凶手
+topic words: ['广告']
+reply: 下面小相机里就是凶手吗？哇哈哈多年找不同练出的眼力有用了。
+
+message: 为何觉得行贿可以原谅？
+topic words: ['原谅']
+reply: 受贿的除了坐牢没有损失，行贿的除了坐牢，钱也没了
+
+message: 这就是村民家里屋顶上的蓄水池
+topic words: ['村民', '屋顶']
+reply: 下边不怕潮湿吗难道就。
+
+message: 环境不造就人，环境只是揭示和显露了一个人的潜能和真正面目。
+topic words: ['环境', '人', '环境', '人']
+reply: 环境必须是改造人的
+
+message: 我勒个去，这个才是真正的功夫熊猫啊！
+topic words: ['功夫', '熊猫']
+reply: 妈妈让我从小就练武
+
+message: 盛大文学起点中文网重要公告
+topic words: ['文学', '起点', '中文网', '公告']
+reply: 小扑街不会得到什么好处的，大神才会财源滚滚来。唉。
+
+message: 很多公司都放假了，约不到人聊天，郁闷！
+topic words: ['公司', '人', '聊天']
+reply: 很多人都回了吧？您太勤奋了！年后求聊天！
+
+message: 想办一本体育杂志，诚招主编！有意者留言，也欢迎大家推荐人才！
+topic words: ['杂志', '大家', '人才']
+reply: 请问您需要怎样的主编，能具体点不，地方在哪？
+
+message: 其实，滑动解锁是咱们中国的专利！
+topic words: ['中国', '专利']
+reply: 没有新内容了啊？隔一段就发重复的
+
+message: 松风清一缕，鹤立自从容。心有闲云渡，何须觅雅踪。
+topic words: ['松风清', '鹤立', '心', '觅雅']
+reply: 心有闲云渡，何须觅雅踪
+
+message: 今天的午饭，韭菜炒鸡蛋和鸡蛋炒韭菜，丰盛吧
+topic words: ['韭菜', '鸡蛋', '韭菜']
+reply: 这是你们的伙食么。以后谁还敢去你们公司上班啊
+
+message: 欧洲小镇上老工匠做的海螺，这雕刻手艺，真心碉堡了！
+topic words: ['欧洲', '小镇', '海螺', '雕刻']
+reply: 螺蛳壳上也能做道场，欧洲艺术家都隐匿在小镇上。
+
+message: 大早上用电钻的，都应该拉出去枪毙五分钟。
+topic words: []
+reply: 晚上十二点之后还在呼啦呼啦搓麻将的也应该拉出去杖毙！
+
+message: 刚喝了一盒国产牛奶。
+topic words: ['国产', '牛奶']
+reply: 一杯没事，每天一杯可能出事
+
+message: 华丽而性感的伴娘装，太唯美了，你想拥有吗？
+topic words: ['华丽', '性感', '伴娘']
+reply: 哈哈，让我成为你以后的伴娘
+
+message: 哪位大仙能解释这个问题呀
+topic words: ['仙能', '问题']
+reply: 英文跟中文难道是同一个人发明的？
+
+message: 朋友们早上好，今天的空气质量。
+topic words: ['朋友']
+reply: 中美同发，居心叵测
+
+message: 徜徉在像花园一样的家中是一件多么幸福的事。
+topic words: ['花园', '事']
+reply: 貌似只能在希腊这么做啊
+
+message: 你确认那些东西还和你当年买到的一样？
+topic words: ['东西']
+reply: 真对，价格标签都上去了。
+
+message: 我有一丝奇怪的心情。
+topic words: ['心情']
+reply: 这副小面孔还能灾纠结一点儿吗
+
+message: 万能的神啊，保佑转发这条微博的人都梦想成真吧！
+topic words: ['万能', '神', '人']
+reply: 保佑我明天要成功。
+
+message: 孔圣人曰，近则不逊，远则怨。这是说谁的啊？
+topic words: ['孔']
+reply: 你这是自找苦呀，吃小心女人骂你
+
+message: 时常收到这样的私信，我该怎么处理呢？
+topic words: []
+reply: 这是个玩笑，别当真吧！
+
+message: 在行动中思考，在生活中修行。
+topic words: []
+reply: 努力按照堪布说的去做去修行！三顶礼三宝堪布！
+
+message: 周六周日希望所有烦人的人都別来烦人！
+topic words: ['人']
+reply: 每周都要说这句啊！
+
+message: 早一直觉得我们台有一天会发射升空的
+topic words: []
+reply: 多蓝的天呀！跳吧！和这蓝天融和在一起。
+
+message: 每个人，都希望成为另一个人，或被当成另一个人。
+topic words: ['人', '人', '人']
+reply: 哦？自己有那么不堪？需要琢磨琢磨这个事
+
+message: 第一次做寿司，果然很容易
+topic words: ['寿司']
+reply: 想起了以前在大学宿舍里做寿司的日子。
+
+message: 缘来要惜，缘尽要放，随方就圆，无处不自在。
+topic words: ['缘', '缘', '圆']
+reply: 缘来要惜，缘尽要放，无处不自在！
+
+message: 健康小麦色美腿，这太叫人艳羡了。
+topic words: ['小麦', '美腿', '人']
+reply: 白的是不是更受欢迎？
+
+message: 这一年，让一生改变。这一刻，愿放下，感恩。
+topic words: []
+reply: 和我同天生日哦。生快
+
+message: 其实，善良比聪明更难，聪明是一种后天天赋，而善良是一种选择
+topic words: ['天赋']
+reply: 人对于选择总是最难的
+
+message: 我觉得这个电器一定是想暗示我什么。
+topic words: ['电器']
+reply: 上面有奇怪的液体！
+
+message: 真的很多人分不清白百合和王璐丹啊。
+topic words: ['百合', '王璐丹']
+reply: 你也分不清王珞丹和王璐丹啊。
+
+message: 象梦一样自由，象天空一样坚强，象大地一样宽容。
+topic words: ['象', '梦', '象', '天空', '象', '大地']
+reply: 天空为何坚强了。三不五时的来个阴霾来个大雨倾盆的。
+
+message: 公司请的培训师，讲到倒在地上哭，这丫太夸张了。
+topic words: ['公司', '培训师']
+reply: 这个公司负责培训的完蛋了，除非公司老板是白痴！。
+
+message: 适合情人老公突然回家，从容逃脱的房子
+topic words: ['情人', '老公', '回家', '房子']
+reply: 一回生二回熟，带俩人给堵了
+
+message: 在有这样外景的会议室开会，你还会觉得累么
+topic words: ['会议室']
+reply: 估计到时候领导讲的什么都没记住
+
+message: 这个抱枕实在太逗了。
+topic words: []
+reply: 哈哈，哪天回家不注意的话会吓到的！
+
+message: 节目安排随赛事进程以实际播出为准
+topic words: ['节目', '赛事']
+reply: 不要再让孙正平解说篮球了
+
+message: 妇联退下，该我秀一把了！
+topic words: []
+reply: 还是更喜欢高富帅钢铁侠
+
+message: 试试这条微博的阅读量有多少。
+topic words: ['量']
+reply: 刷到没点进来的也计算吗？
+
+message: 昨天晚上做梦我回西安翻译学院了，还住进了南一。
+topic words: ['西安', '学院', '南']
+reply: 下次西安话测评吧。
+
+message: 韩国的整容技术太思密达了，这还让不让人活了！
+topic words: ['韩国', '整容', '技术', '思密达', '人']
+reply: 我艹，那照镜子还认识么？
+
+message: 高中的课本，曾经这样写满的情举手！
+topic words: ['情']
+reply: 以前感觉写的越多学习越好后来知道写了也白写
+
+message: 这孩子相当有前途。
+topic words: ['孩子']
+reply: 学生，老师，教育，都是失败。
+
+message: 日本餐馆的厨师叫头，给客人用一大木铲送菜。
+topic words: ['日本', '餐馆', '厨师', '头']
+reply: 你很喜欢日本吗？你是中国人吗？
+
+message: 不想失去，不仅是保护好就足够，而是让对方也变强！
+topic words: []
+reply: 不想失去，不仅是保护好就足够，而是让对方也变强！
+
+message: 转一转，好事将会发生在你身上！
+topic words: []
+reply: 我现在真的需要这个。
+
+message: 今天，无缘无故，心情很好，多谢大家！
+topic words: ['心情', '多谢', '大家']
+reply: 我发誓填词一定要超越黄伟文林夕
+
+message: 放假是不是只顾吃了，有没有跑步啊？
+topic words: ['跑步']
+reply: 喻舟好棒，明天我也要跑！
+
+message: 穿成这样不是讲数就是收数只需预防意外中暑。
+topic words: []
+reply: 我决定了我要追你！
+
+message: 用一句话证明你的家乡是哪里！
+topic words: ['话', '家乡']
+reply: 天心阁，阁中鸽，鸽飞阁不飞，橘子洲，洲旁舟，舟行洲不行。
+
+message: 如此给女朋友过生日，这样的男朋友你还要吗？
+topic words: ['女朋友', '男朋友']
+reply: 我掐死他的心都有了！
+
+message: 十五年弹指一挥间，再回首恍然如梦。
+topic words: ['梦']
+reply: 莱昂纳多和凯特，十五年，太过匆匆。
+
+message: 不减税会死一些企业，那税也没了。要算清楚，减与收的关系。
+topic words: ['企业', '关系']
+reply: 象这样釜底抽薪的事做的还少吗！
+
+message: 两个人的书房，看看哪款适合你。
+topic words: ['人']
+reply: 幸福，可以是简单的两个人呆在一起。
+
+message: 时针，注定是个胖子。
+topic words: ['胖子']
+reply: 难怪时针是最粗的！
+
+message: 比赛结束，各位开始吧。
+topic words: []
+reply: 大家一块预测下本赛季意甲第一位下课的教练是哪位呢
+
+message: 男孩干过的傻事之一，女孩称之为浪漫
+topic words: ['男孩', '女孩']
+reply: 最后男人开始浪了，女人开始傻了。
+
+message: 今天奥林匹克森林公园。跑完步后拍的照片。
+topic words: ['奥林匹克', '森林公园', '照片']
+reply: 像潘小时候熟悉的风物吧。
+
+message: 丝袜不要买那么黑的。
+topic words: []
+reply: 呵呵。丝袜质量太好了
+
+message: 一位超级有想象力的中国妈咪给宝宝拍的照片，真是太有才了！
+topic words: ['中国', '妈咪', '宝宝', '照片', '真是太']
+reply: 最可爱的妈咪与宝宝！
+
+message: 轮渡，一笑就没有眼睛的人真可怜
+topic words: ['眼睛', '人']
+reply: 大白腿啊！话说哪天问问你厦门旅游的攻略啊！
+
+message: 真正爱你的人不会说许多爱你的话，却会做许多爱你的事。
+topic words: ['人', '事']
+reply: 也说也做才是王道好吧。
+
+message: 世上没有绝对幸福的人只有不肯快乐的心
+topic words: ['人', '心']
+reply: 为你转得。希望你真正的开心快乐起来！
+
+message: 每次经过天安门，都会看到毛主席深情地凝望着对面的自己
+topic words: ['天安门', '深情', '对面']
+reply: 这份深情，总让我很不安。您呢？
+
+message: 好固执的小家伙。宝贝，还是下地走吧。
+topic words: ['小家伙', '宝贝']
+reply: 小浣熊啊，看到他真的没了脾气
+
+message: 我觉得还是不要告诉他真像比较好。
+topic words: []
+reply: 悄悄告诉我吧，我不说出去的！
+
+message: 时光如水你舍不得喝，光阴似箭我可劲儿躲。
+topic words: ['时光', '水']
+reply: 时光如水不解渴，光阴似箭躲不过。
+
+message: 尽力之后再随缘。晚安。
+topic words: ['随缘', '晚安']
+reply: 今天才看到残达提到了一句类似的。
+
+message: 今晚在家晚饭，来一尾清蒸鱼，有同道中人吗？
+topic words: []
+reply: 我地屋企蒸鱼只用葱姜，不会用芫荽
+
+message: 张家界天门山。如果你站在这里，你会说一句什么话？
+topic words: ['张家界', '天门山', '话']
+reply: 绝对是南派三叔的插页。
+
+message: 我确定介货不是我亲生，大家相信我的清白
+topic words: ['大家']
+reply: 浮云啊，神马都是浮云啊
+
+message: 主人！你居然背着我又养了只喵？
+topic words: []
+reply: 我家也有一只这个偷钱猫
+
+message: 用飘柔，就是这么有自信。
+topic words: []
+reply: 用飘油，就是介么机信。
+
+message: 今晚一场斗志斗勇的恶战！加油兄弟们
+topic words: ['兄弟']
+reply: 加油！我们支持你们！
+
+message: 十大打老婆地区排行榜！。你呢？
+topic words: ['老婆', '地区', '排行榜']
+reply: 没懂，为什么贵州没肉吃打！都是极品！
+
+message: 为什么受伤的总是他们。
+topic words: []
+reply: 保罗帕克德隆库里他们危险了。
+
+message: 世间最痛苦事情的莫过于此。
+topic words: []
+reply: 喵星人实在是太可爱了！萌死了！
+
+message: 我想不磨皮，又能去掉满脸的斑，就是这么肤浅。
+topic words: ['皮']
+reply: 哇塞。好亮的眼睛！
+
+message: 没有高考，你拼得过官二代吗？
+topic words: []
+reply: 官二代都去美国上大学了，不用高考。
+
+message: 分享图片结束蒙餐回家休息
+topic words: ['图片', '回家']
+reply: 左下角那个碗里的是什么啊？奶茶？
+
+message: 在餐厅内撞晕的小鸟。科学岛就是生态好。
+topic words: ['餐厅', '内', '小鸟', '科学', '岛', '生态']
+reply: 好是好，可是在动筷前要注意下盘里！
+
+message: 还是那句老话，不怕神一样的对手，就怕猪一样的队友。
+topic words: ['神', '猪']
+reply: 还是那句老话，不怕神一样的对手，就怕猪一样的队友。
+
+message: 听说这是最新的奥特曼。二货啊！
+topic words: ['奥特曼']
+reply: 这迅速的反应，不愧是奥特曼！
+
+message: 早起的鸟儿有虫吃，各位早安！
+topic words: ['虫', '早安']
+reply: 你每天早上都有吃虫子么？
+
+message: 千万不要相信你的眼睛。！
+topic words: ['眼睛']
+reply: 好可怕，是用了错位原理吗
+
+message: 八戒，是你吗。你以为戴个草帽就认不出你啦？
+topic words: []
+reply: 八戒，上辈子你做不成人，怎么这辈子还投胎失败呢！
+
+message: 没有这盘阳澄湖大鳊鱼的秋夜，最难将息
+topic words: ['阳澄湖']
+reply: 阳澄湖大鳊鱼确实好吃！
+
+message: 还记得那个无聊的星期二下午吗？你都是怎么打发时间呢？
+topic words: ['时间']
+reply: 一不小心立马就三儿了啊。熟悉又凄惨的图画啊。
+
+message: 凯旋门和万变的巴黎天空。
+topic words: ['凯旋门', '万变', '巴黎', '天空']
+reply: 开复老师近日游了好多国家呢。
+
+message: 我房间有一只老鼠，我坐在床上在跟它对峙，看谁先跑出这个屋子
+topic words: ['房间', '老鼠']
+reply: 卡夫卡的真实与荒诞，诗人走饭
+
+message: 换季容易过敏，大家要多注意
+topic words: ['换季', '过敏', '大家']
+reply: 的确过敏了。每次换季都会。怎么改变？
+
+message: 小时候喜欢这样干的童鞋，请举手。
+topic words: ['小时候', '童鞋']
+reply: 这是变态心理么？我喜欢诶。
+
+message: 试过薰衣草冰淇淋吗？淡淡的清香，特别的口感，吃多少都不腻。
+topic words: ['冰淇淋', '清香']
+reply: 冰淇淋好吃，碗好看。
+
+message: 卫生巾也走复古风。介个，大家怎么看的。
+topic words: ['卫生巾', '复古风', '介', '大家']
+reply: 布的？反复使用的？
+
+message: 谁为你倾尽年华，谁又为你海角天涯。
+topic words: []
+reply: 我做了前半句，你能不能做到后半句？
+
+message: 无所不萌之广西南宁。下次见啰！
+topic words: ['广西南宁']
+reply: 好可爱！右下角那张，宝弟的脸是一个囧字。
+
+message: 她不是很漂亮，但就是很喜欢她和她的歌，加油！
+topic words: ['歌']
+reply: 我也刚看完，声音太好听了
+
+message: 球衣半遮面有点印度皇后陪同皇上出游看球的感觉。
+topic words: ['印度', '皇后', '皇上', '感觉']
+reply: 正在纠结晚上要不要过去。我明天还得上班啊。
+
+message: 这轮行情不是针对散户的。
+topic words: []
+reply: 这轮行情是针对整个中国的
+
+message: 你有多少钱，也买不来它们。懂得珍惜才是幸福。
+topic words: ['钱']
+reply: 免费的，也是最贵的。
+
+message: 有人看中国好声音吗？我请她吃葡萄，很珍贵的葡萄哦。
+topic words: ['中国', '声音', '葡萄', '葡萄']
+reply: 这期没一个有我的声音好
+
+message: 微风正好，走，饭饭去！
+topic words: []
+reply: 您在哪？我想见您，我大老远从广东过来就为了见您一面。
+
+message: 你才是拖鞋，你全家都是拖鞋。
+topic words: ['拖鞋', '拖鞋']
+reply: 你不是拖鞋是雪地靴
+
+message: 我根本不怕你不爱我，我怕的是终有一天我懒得再爱你。
+topic words: []
+reply: 也怕你不爱我了，也怕我不爱你了
+
+message: 我希望我的下一场恋爱，要么，不开始。要么，一辈子。
+topic words: []
+reply: 我已经不知道什么是恋爱了！
+
+message: 小样儿很会装酷嘛。车链都木有，看你肿么骑
+topic words: ['小样儿', '都木']
+reply: 小样儿很会装酷嘛。车链都木有，看你肿么骑
+
+message: 战争让人心丧失爱。你没有经历过战争，怎知其残酷？
+topic words: ['战争', '战争']
+reply: 领导人自己去单挑，老百姓伤不起
+
+message: 刚收到的，大家把照片处理了一下，很有意思
+topic words: ['大家', '照片']
+reply: 连起来看，好搞笑啊，你们都累不累？一直吹
+
+message: 谁来阻止麦当劳的创意总监？
+topic words: ['麦当劳', '总监']
+reply: 强大的麦当劳叔叔！
+
+message: 今天有不少医务人员还要值班，感谢他们！祝福他们！
+topic words: ['祝福']
+reply: 咱是白班，现在看春晚了。
+
+message: 情人节单身的差距，哈哈，超市约会的开路
+topic words: ['情人节', '单身', '约会']
+reply: 这是哪里的超市啊，好想偶遇你们
+
+message: 一朵鸡冠花正在歌颂茉莉花
+topic words: ['茉莉花']
+reply: 哈哈哈，刚刚就觉得像。
+
+message: 离京几日，停博一周。小别，各位亲。
+topic words: ['离京']
+reply: 每日留言以示常来。
+
+message: 大人理解不了的孩子眼里的世界。
+topic words: ['大人', '孩子', '世界']
+reply: 小学时候就这样好怀念。
+
+message: 日本的电视节目一大早拿中国游客的事儿吐嘈，今天是个大阴天。
+topic words: ['日本', '电视节目', '中国', '游客']
+reply: 不文明没素质的中国人真的很多！宿舍就有
+
+message: 刚去吃了黄亚细肉骨茶。好吃，但还不算最好吃！
+topic words: ['黄亚', '茶']
+reply: 骨茶是啥东西？怎么看着想排骨汤
+
+message: 我能做的不多，但你需要的时候，我在！
+topic words: []
+reply: 说的和我一样一样的
+
+message: 日子不好过！税要来。
+topic words: ['日子']
+reply: 我还以为全部都征税。好再是大卖家才需要。不然兼职做不成咯
+
+message: 人生的旅途中，总有那么一段时间，需要你自己走，自己扛。
+topic words: ['人生', '旅途']
+reply: 那就自己走自己扛吧
+
+message: 不断的发现以前的自己是个傻逼，这就是人生。
+topic words: ['人生']
+reply: 不断的发现以前的自己是个傻逼，这就是人生。
+
+message: 路若走得不够艰难，你就该怀疑它是不是对的。
+topic words: ['路']
+reply: 路若走的太过迷茫莱。？那算什么。
+
+message: 幸福不是对往昔的回忆，幸福是对未来的憧憬。晚安。
+topic words: ['晚安']
+reply: 没有的爱，找回来。
+
+message: 直面烦恼，无畏无惧。烦恼便成云烟。
+topic words: []
+reply: 大师，这个境界不好达到啊
+
+message: 下次吃桔子记得剥成这样。
+topic words: ['桔子']
+reply: 下次吃桔子记得剥成这样
+
+message: 哪位朋友告诉我，我的上条微博是什么？
+topic words: ['朋友']
+reply: 如开启了微博智能排序，请改回时间排序，这样就清楚了。
+
+message: 听说伦敦开幕式扬我国威八万人唱新加坡歌手的作品了？
+topic words: ['伦敦', '威', '人', '新加坡', '歌手', '作品']
+reply: 这人要不懂幽默了真可怕。所以不被那些人理解你也不要在意。
+
+message: 听这首歌你第一个想起了谁？
+topic words: []
+reply: 思念是一种病，我好想你。
+
+message: 既然非同志，只得配病亡。
+topic words: []
+reply: 还不如现在一个村官贪污的多呢。搞政治就是危险啊！
+
+message: 我们可以吵架，但不能影响关系。无论友情还是爱情。
+topic words: ['关系', '友情', '爱情']
+reply: 我们可以吵架，但是不能影响感情！
+
+message: 貌似手头挺多事情没做没想。管他的，先画画再说。
+topic words: ['画画']
+reply: 小飞挺哥们还去为你加油啊
+
+message: 今天终于有太阳啦！完美的一天开始了
+topic words: ['太阳']
+reply: 昆明依旧在下雨。身体依旧不是很舒服。哈哈
+
+message: 兰小胖在加班，兰精灵们在玩什么吖？
+topic words: ['兰小', '兰精灵']
+reply: 好看，亲，你是服装设计师耶。好棒
+
+message: 中国电信三沙分公司正式挂牌。
+topic words: ['中国电信', '三沙']
+reply: 祝贺并期待取得更好业绩
+
+message: 原来他还有这爱好。
+topic words: []
+reply: 我仰慕多年的勒夫教练。
+
+message: 你家里有山寨充电器么？
+topic words: ['山寨', '充电器']
+reply: 原装充电器配山寨线没事吧，大叔。
+
+message: 我们华仔累了，做完治疗直接在医务室睡了，真不容易啊
+topic words: ['华仔']
+reply: 那孩子，怎么累成这样啦
+
+message: 据说世界上最动听的话就是这三个字，同感的举个手。
+topic words: ['世界', '字', '手']
+reply: 今日又有人同我讲呢句话，我真的瘦了？可惜，我不是呢！
+
+message: 看到这货的睡姿，真心很想送一把菊花给它。
+topic words: ['菊花']
+reply: 看到这货的睡姿，真心很想送一把菊花给它。
+
+message: 这个创意不好么不好么不好么？为什么不让发呢？
+topic words: []
+reply: 反过来翻译挺不错的。
+
+message: 企业，兴在于人，衰也在于人。
+topic words: ['企业', '人', '人']
+reply: 关键是如何管理好人！现在的人不是以前了！
+
+message: 有些路，只能一个人走，路上的艰辛，只有自己知道。
+topic words: ['路', '人']
+reply: 不可说，说了也无人可知
+
+message: 麻将这样大才够霸气，太小的不要叫我！
+topic words: ['麻将']
+reply: 有点意思，让我想起前几天拿麻将机当饭桌还吃过两顿饭呢
+
+message: 我想了半天，我还是决定坚持我闲的蛋疼的风格
+topic words: ['蛋', '风格']
+reply: 上条距这条想了半小时
+
+message: 今天香港媒体是这样报道刘翔的
+topic words: ['香港媒体', '刘翔']
+reply: 也许这就是真相呢！
+
+message: 在一起时间长了，长相都变得相似起来。
+topic words: ['时间']
+reply: 有句话相爱就会相似
+
+message: 深夜赴台北观察选举！机票紧张呀。
+topic words: ['台北']
+reply: 那就更不能听他的了。他有什么资格对大陆游客指手画脚。
+
+message: 一本引发争议的小学教材，你的看法呢？
+topic words: ['小学', '教材']
+reply: 洗脑式的教育要不得
+
+message: 你十七岁喜欢的那个人怎么样了？
+topic words: ['人']
+reply: 没联系了管他怎样？
+
+message: 野猪居然敢偷吃犀牛的草，简直不要命了！
+topic words: ['野猪', '犀牛', '草']
+reply: 秒杀？！肚子上硕大颗窟窿
+
+message: 飞天圆梦，圆了谁的梦？
+topic words: ['飞天', '圆梦', '圆', '梦']
+reply: 神九起飞，到底完了谁的梦？
+
+message: 决然远市井，卖花大海上。随风自东西，不必辨方向。
+topic words: ['东西', '方向']
+reply: 听天由命，随遇而安。
+
+message: 今天的风是带凉意的，穿件短袖有点冷，秋天来了。
+topic words: []
+reply: 秋天来了，收割季节到了
+
+message: 上海人知道这是什么吗？
+topic words: ['上海', '人']
+reply: 桔红膏，糯米的很好吃。
+
+message: 人生为棋，我愿为卒，行动虽慢，可谁曾见我后退一步。
+topic words: ['人生']
+reply: 请问海阳现场秀主题曲叫什么名字，就是开场那个片段。
+
+message: 詹姆斯季后赛得分超越大梦的那一球！
+topic words: ['詹姆斯', '季后赛', '球']
+reply: 拿下这一场后就重新夺回主场优势，热火拼吧
+
+message: 再彪悍的体重也阻止不了那颗想飞的心
+topic words: ['体重', '心']
+reply: 对那颗想飞的心来说，体重神马的全都是浮云
+
+message: 刚出生的小马，萌翻。
+topic words: ['小马']
+reply: 怎么有种恶心的感觉。
+
+message: 好了，新的一天开始了，让我们清空悲伤，好好地面对生活吧。
+topic words: ['地面']
+reply: 明年再来，今年就当培养年轻球员了
+
+message: 第一次吃自家制的菠萝炒饭味道真好！
+topic words: ['菠萝', '味道']
+reply: 帅哥，不运杆怎么还打得那么稳。
+
+message: 文采如此，何须卖盖饭？
+topic words: []
+reply: 想次遗臭万年之榴莲冰淇凌
+
+message: 午饭河豚！外表可爱其实巨毒！
+topic words: ['河豚']
+reply: 曹云金曹云金曹云金
+
+message: 某天早晨，我犯了一个错误，看图就知道了。
+topic words: []
+reply: 蛋壳温度承受不了哦
+
+message: 表白的就再去看看我的签名吧。呵呵。
+topic words: []
+reply: 抱大腿！拉裤脚！亲妈粉爱你就够了！
+
+message: 早上一直在开会，没有感觉到地震啊？
+topic words: ['感觉', '地震']
+reply: 听说京东要转型了？
+
+message: 承诺，有时候，就是一个骗子说给一个傻子听的。
+topic words: ['骗子', '傻子']
+reply: 傻子想骗子骗她一辈子，骗子想傻子能傻一辈子。
+
+message: 很有现代感的客厅，可以在地板上打滚了。
+topic words: ['客厅', '地板']
+reply: 很喜欢，但是这要是打扫起来得多长时间啊？
+
+message: 进入微博大家庭，欢迎多多指教！
+topic words: ['家庭', '多多指教']
+reply: 坐等双开局长的逆袭。
+
+message: 缘起，在人群中，我看见你。缘灭，我看见你，在人群中。
+topic words: ['人群', '缘', '人群']
+reply: 我是天空里的一片云，，
+
+message: 小胖纸。看清点路啊！疼！。
+topic words: ['纸', '路']
+reply: 瞧你乐的屁颠屁颠的，这不，摔跟头了吧？该！
+
+message: 满屏都是带着批判精神看春晚的。
+topic words: ['满屏', '精神']
+reply: 现场果然有受不住睡着的呀
+
+message: 善款用作行善，否则就是罪恶！
+topic words: ['罪恶']
+reply: 但是在人民币上是不能写字的啊
+
+message: 总觉得像这样的老房子。时光感格外厚重。容易入睡。
+topic words: ['时光']
+reply: 让人有种好熟悉的感觉，好怀念啊。
+
+message: 跳不了那么高你就别隔人扣了。
+topic words: ['人']
+reply: 还第一次看到失败的
+
+message: 这个点到北京，我只能说无限感动！还好到了。到了就好。
+topic words: ['北京']
+reply: 你到北京了？我也在！
+
+message: 穿成这样，分明黝黑蜗壳
+topic words: []
+reply: 呵呵，好般配的一对，很喜欢杨老师的解说。
+
+message: 原来如此，我懂了。
+topic words: []
+reply: 啊！被骗了二十几年。
+
+message: 有时候我可以看得很淡然，有时候我又执着得有些不堪。
+topic words: []
+reply: 无法淡定。太深爱了
+
+message: 最近爱上了一款新的电脑，叫苹果汁！
+topic words: ['电脑']
+reply: 苹果过时了，要苹果汁
+
+message: 风飘过，让一切都飘过。
+topic words: ['风']
+reply: 很喜欢这样风格的！漂漂！
+
+message: 太刺激了，最后坠地的那一刻真是太华丽了！
+topic words: ['真是太', '华丽']
+reply: 第三百秒。日方出动战机拦截了
+
+message: 高考是这个时代赐予穷孩子的一粒精神伟哥
+topic words: ['时代', '精神']
+reply: 穷孩子们也只能指望这为数不多的梯子了
+
+message: 胜利了！很开心！继续努力
+topic words: []
+reply: 今晚的比赛真的很精彩，继续努力吧！
+
+message: 说说你听过最恐怖的一句话！
+topic words: ['话']
+reply: 准备好了吗。我们分手吧。
+
+message: 减肥的首个夜晚，四点钟饿醒，作孽啊。
+topic words: ['钟']
+reply: 你需要减肥？不大可能吧
+
+message: 未婚人士只能娶一套房子，这是中国近日出台的新婚姻法。
+topic words: ['房子', '中国']
+reply: 有钱买二套房的，不会是单身！
+
+message: 胖纸的忧伤，有谁能懂。
+topic words: []
+reply: 猫胖可爱，人胖猪扒。！那些不努力去减肥的猪扒也会哀伤？
+
+message: 早上五点出发刚抵达酒店累惨了
+topic words: ['酒店']
+reply: 估计今天你是不是到现在还没起床呢！
+
+message: 大家好，这是筷子兄弟的官方微博
+topic words: ['大家', '兄弟', '博']
+reply: 我是沙发。欢迎筷子兄弟俩
+
+message: 这不是宝马，这是永久。
+topic words: ['宝马']
+reply: 这个广告词好！永久牌自行车
+
+message: 两个孩子和他的家长
+topic words: ['孩子']
+reply: 中间的老爸表示我很幸福，
+
+message: 长沙的莫鱼们，我来了！你们看酒店很花心思来欢迎我呢！
+topic words: ['长沙', '莫鱼', '酒店', '花心思']
+reply: 哇，好可爱好漂亮哦。呵呵。
+
+message: 哈哈。这车锁的。我很佩服这个人的智商啊看懂了就转
+topic words: ['人']
+reply: 太搞笑了高手还没睡醒呢就上路疲劳驾驶啊
+
+message: 话先搁这，伊拉克不败。国足赢了宵夜我请。
+topic words: ['话', '伊拉克']
+reply: 吃火锅，烤肉，烤馒头片
+
+message: 眼瞅着戏曲日渐没落。京剧，您还能撑多久？
+topic words: ['戏曲', '京剧']
+reply: 京剧的衰落，与文化大革命时代的迫害是有直接关系的
+
+message: 最新款户外跑步机，这个有点意思噢。
+topic words: []
+reply: 总感觉好像很容易摔下来
+
+message: 每次吃草莓，都感觉是在舔一个粉刺黑头鼻。替你吐
+topic words: ['草莓', '感觉', '鼻']
+reply: 真行啊。我以后不敢吃草莓了！
+
+message: 昨天晚上做梦我回西安翻译学院了，还住进了南一。
+topic words: ['西安', '学院', '南']
+reply: 汗，关注你两年了，现在才知道。
+
+message: 在南山上看重庆全景。空气有些混浊看得不是很清楚。
+topic words: ['南山', '重庆', '空气']
+reply: 怎么可能？一直晴天。
+
+message: 算了算了，我看出来了，你们都想看男人！上张美男图。
+topic words: ['男人', '美男', '图']
+reply: 说明小宣是妇女之友，粉丝都是女生
+
+message: 夜间节目不容易做啊，哈哈哈哈
+topic words: ['节目']
+reply: 坚持下去努力下去！我们永远陪伴你
+
+message: 听说王立军是被北京国安带走的，现在踢球的势力这么大啊？
+topic words: ['王立军', '北京', '国安']
+reply: 天朝的有关部门真的很特殊，很明朝的东厂西厂一样无所不能
+
+message: 刚和考拉亲密接触，我去。这个臭！
+topic words: ['考拉']
+reply: 其实考拉也是这么想的，吼吼！
+
+message: 为什么这时候大家才关心到医护人员的前景？
+topic words: ['大家', '关心']
+reply: 中医很有前景。西医还要三班倒，包括护士。
+
+message: 什么是严谨而认真的工作态度？
+topic words: ['态度']
+reply: 精力都花在这些地方了。
+
+message: 这个小狗，当时基本是家家都有！有木有啊！
+topic words: ['小狗', '家家', '木']
+reply: 嗯，耳朵被我咬掉了，谢谢
+
+message: 科比与乔丹的对比图，喜欢的转。
+topic words: ['乔丹', '图']
+reply: 太用心了，这样都找得出来那么多图片
+
+message: 片刻之间，形势大变了。
+topic words: []
+reply: 原来收到了很多蛋糕
+
+message: 人一切的痛苦，本质上都是对自己的无能的愤怒。
+topic words: ['人', '本质']
+reply: 人一切的痛苦，本质上都是对自己的无能的愤怒。
+
+message: 活着，是中国。活法，是中国梦。
+topic words: ['中国', '中国', '梦']
+reply: 有空找我来种种玫瑰吧！就不是梦了。别每天琢磨着换车买豪宅了
+
+message: 我擦！被一只走文艺路线的蚊子咬了。
+topic words: ['文艺', '蚊子']
+reply: 这蚊子肯定是丘比特派来的
+
+message: 吃大闸蟹，告诉我你们一口气能吃几只？
+topic words: ['大闸蟹']
+reply: 那要看蟹肥的程度了。
+
+message: 办了临时的，改签了飞机。
+topic words: ['飞机']
+reply: 会数钱的朋友们大家一起帮忙找！
+
+message: 安息吧，来世投胎个好人家。
+topic words: []
+reply: 这么隆重啊好友爱心啊
+
+message: 网络攻城狮的语言和发展方向，你懂得
+topic words: ['网络', '语言', '方向']
+reply: 很像程序猿干的活。
+
+message: 本来用的保温壶坏了，所以我换了个新的！
+topic words: ['保温']
+reply: 肿么感觉你家的碗也是天朝特产
+
+message: 重新开始！发张我小宝哥的照片开心一下。
+topic words: ['小宝哥', '照片']
+reply: 希望你能越大越好。
+
+message: 哼，谁还没有个想当年！
+topic words: []
+reply: 张震岳小时候的像彭于晏呀。
+
+message: 穷人专用花，还没送的赶紧收花！
+topic words: ['穷人']
+reply: 好实惠哟。要是有人送我，我也不反对哈哈
+
+message: 加班后酣睡的花样美男，天然骚。
+topic words: ['美', '男']
+reply: 老罗今晚去李志的演出么，有登台献唱的计划么
+
+message: 人类已经不能阻止他卖萌了。
+topic words: ['人类']
+reply: 太可爱了！对卖萌的宝宝没有免疫力
+
+message: 微信怎么了，大家能发么？
+topic words: ['大家']
+reply: 发不了了能说粗话吗？我去年买了个表！
+
+message: 这一集国家地理屌爆了。
+topic words: ['国家', '地理']
+reply: 这个故事我也听说好，相当的无厘头
+
